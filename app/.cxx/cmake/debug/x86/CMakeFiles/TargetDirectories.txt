@@ -1,0 +1,3 @@
+/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
+/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/.cxx/cmake/debug/x86/CMakeFiles/ncnnyoloface.dir

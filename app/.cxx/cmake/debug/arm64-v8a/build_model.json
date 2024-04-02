@@ -1,0 +1,69 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face",
+      "sdkFolder": "/Users/derronqi/Library/Android/sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "ideBuildTargetAbi": "arm64-v8a,armeabi-v7a,armeabi",
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/build/intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app",
+      "makeFile": "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/src/main/jni/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/.cxx",
+      "cxxFolder": "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/.cxx",
+      "ndkFolder": "/Users/derronqi/Library/Android/sdk/ndk/21.1.6352462",
+      "ndkVersion": "21.1.6352462",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/build/intermediates/cmake/debug/lib",
+    "objFolder": "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/build/intermediates/cmake/debug/obj",
+    "jsonFolder": "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/.cxx/cmake/debug",
+    "gradleBuildOutputFolder": "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/.cxx/cxx/debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARM64_V8A",
+      "ARMEABI_V7A"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARM64_V8A",
+  "abiPlatformVersion": 24,
+  "cxxBuildFolder": "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/.cxx/cmake/debug/arm64-v8a",
+  "jsonFile": "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/.cxx/cmake/debug/arm64-v8a/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/.cxx/cxx/debug/arm64-v8a",
+  "objFolder": "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/build/intermediates/cmake/debug/obj/arm64-v8a",
+  "buildCommandFile": "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/.cxx/cmake/debug/arm64-v8a/build_command.txt",
+  "buildOutputFile": "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/.cxx/cmake/debug/arm64-v8a/build_output.txt",
+  "modelOutputFile": "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/.cxx/cmake/debug/arm64-v8a/build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/.cxx/cxx/debug/arm64-v8a/CMakeLists.txt",
+    "toolchainWrapperFile": "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/.cxx/cxx/debug/arm64-v8a/android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/.cxx/cxx/debug/arm64-v8a/build_generation_state.json",
+    "cacheKeyFile": "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/.cxx/cxx/debug/arm64-v8a/compiler_cache_key.json",
+    "compilerCacheUseFile": "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/.cxx/cxx/debug/arm64-v8a/compiler_cache_use.json",
+    "compilerCacheWriteFile": "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/.cxx/cxx/debug/arm64-v8a/compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/.cxx/cxx/debug/arm64-v8a/compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/.cxx/cmake/debug/arm64-v8a/json_generation_record.json",
+  "compileCommandsJsonFile": "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/.cxx/cmake/debug/arm64-v8a/compile_commands.json"
+}

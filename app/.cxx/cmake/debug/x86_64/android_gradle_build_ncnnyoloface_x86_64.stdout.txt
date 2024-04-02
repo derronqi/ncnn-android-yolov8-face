@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/.cxx/cmake/debug/x86_64'
+ninja: no work to do.

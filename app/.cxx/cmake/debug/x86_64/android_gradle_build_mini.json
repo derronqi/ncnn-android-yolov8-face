@@ -1,0 +1,35 @@
+{
+  "buildFiles": [
+    "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/src/main/jni/opencv-mobile-4.6.0-android/sdk/native/jni/OpenCVConfig.cmake",
+    "/Users/derronqi/Library/Android/sdk/ndk/21.1.6352462/build/cmake/platforms.cmake",
+    "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/src/main/jni/opencv-mobile-4.6.0-android/sdk/native/jni/abi-x86_64/OpenCVConfig.cmake",
+    "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/src/main/jni/opencv-mobile-4.6.0-android/sdk/native/jni/abi-x86_64/OpenCVModules-release.cmake",
+    "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/src/main/jni/ncnn-20210720-android-vulkan/x86_64/lib/cmake/SPIRVTargets-release.cmake",
+    "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/src/main/jni/CMakeLists.txt",
+    "/Users/derronqi/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/src/main/jni/ncnn-20210720-android-vulkan/x86_64/lib/cmake/glslangTargets-release.cmake",
+    "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/src/main/jni/opencv-mobile-4.6.0-android/sdk/native/jni/abi-x86_64/OpenCVModules.cmake",
+    "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/src/main/jni/ncnn-20210720-android-vulkan/x86_64/lib/cmake/ncnn/ncnn.cmake",
+    "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/src/main/jni/ncnn-20210720-android-vulkan/x86_64/lib/cmake/OSDependentTargets-release.cmake",
+    "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/src/main/jni/ncnn-20210720-android-vulkan/x86_64/lib/cmake/OGLCompilerTargets.cmake",
+    "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/src/main/jni/opencv-mobile-4.6.0-android/sdk/native/jni/OpenCVConfig-version.cmake",
+    "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/src/main/jni/ncnn-20210720-android-vulkan/x86_64/lib/cmake/glslangTargets.cmake",
+    "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/src/main/jni/ncnn-20210720-android-vulkan/x86_64/lib/cmake/OSDependentTargets.cmake",
+    "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/src/main/jni/ncnn-20210720-android-vulkan/x86_64/lib/cmake/OGLCompilerTargets-release.cmake",
+    "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/src/main/jni/ncnn-20210720-android-vulkan/x86_64/lib/cmake/ncnn/ncnn-release.cmake",
+    "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/src/main/jni/ncnn-20210720-android-vulkan/x86_64/lib/cmake/ncnn/ncnnConfig.cmake",
+    "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/src/main/jni/ncnn-20210720-android-vulkan/x86_64/lib/cmake/SPIRVTargets.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/derronqi/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/.cxx/cmake/debug/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/Users/derronqi/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/.cxx/cmake/debug/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "ncnnyoloface-Debug-x86_64": {
+      "artifactName": "ncnnyoloface",
+      "buildCommand": "/Users/derronqi/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/.cxx/cmake/debug/x86_64\" ncnnyoloface",
+      "abi": "x86_64",
+      "output": "/Users/derronqi/AndroidStudioProjects/ncnn-android-yolov8_face/app/build/intermediates/cmake/debug/obj/x86_64/libncnnyoloface.so"
+    }
+  }
+}
